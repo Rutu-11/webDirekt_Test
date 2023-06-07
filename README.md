@@ -23,7 +23,7 @@ Before running the THII app, make sure you have the following prerequisites inst
 
 To run the THII app locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/Rutu-11/webDirekt_Test.git`
 2. Navigate to the project directory: `cd thii-app`
 3. Install dependencies: `npm install`
 4. Start the JSON Server: `json-server --watch db.json --port 3004`
